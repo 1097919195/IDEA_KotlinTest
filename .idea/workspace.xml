@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1b15ade-4058-4e7b-b69d-a94bb2a69f65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Expr.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KotlinForEach.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestConst.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/KotlinTestKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTest/KotlinTestKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinTest/META-INF/KotlinTest.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinTest/META-INF/KotlinTest.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KotlinTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/KotlinTest.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +18,7 @@
     <session id="458803307">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -49,13 +40,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="381" />
-          <entry key="kt" value="287" />
+          <entry key="kt" value="318" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="381" />
-          <entry key="Kotlin" value="287" />
+          <entry key="Kotlin" value="318" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
@@ -69,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KotlinTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="132">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -396,7 +387,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540454012921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540454371774" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
@@ -487,16 +478,15 @@
       <updated>1540368090740</updated>
       <workItem from="1540368095556" duration="2754000" />
       <workItem from="1540430885333" duration="4346000" />
-      <workItem from="1540437765963" duration="6477000" />
+      <workItem from="1540437765963" duration="7521000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13577000" />
+    <option name="totallyTimeSpent" value="14621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25601202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -585,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KotlinTest.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="132">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>

@@ -3,7 +3,7 @@ public class JavaTest {
         System.err.println(eval(new Sum(new Sum(new Num(1), new Num(2)), new Num(4))));
 
 
-        JavaExpr javaExpr1 = new Num(1);
+        JavaExpr javaExpr1 = new Num(1);//没实现接口的类是不能等于接口的实例的
         JavaExpr javaExpr2 = new Sum(new Num(1),new Num(2));
         System.err.println(javaExpr1 == javaExpr2);
 
