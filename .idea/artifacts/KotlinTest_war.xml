@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="KotlinTest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="salesreport.war">
+      <element id="artifact" artifact-name="KotlinTest:war exploded" />
+    </root>
+  </artifact>
+</component>

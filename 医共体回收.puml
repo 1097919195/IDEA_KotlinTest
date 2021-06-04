@@ -1,0 +1,29 @@
+@startuml
+title 时序图
+header Page Header
+footer Page %page% of %lastpage%
+'移除脚注
+hide footbox
+'内容
+actor 清理人
+participant 回收界面
+清理人 -> 回收界面 : 扫清理人码
+database 服务器
+'使用|||来增加空间，可以指定像素数量
+||20||
+回收界面 -> 服务器 : 扫科室码
+显示数据 -> 确认回收 :核对数据
+服务器 -> 显示数据 : 待确认回收的数据
+确认回收 -> 服务器 : 上传回收的数据
+'添加注释
+note right: this is right note
+note left 确认回收
+	a note left
+end note
+
+newpage
+/'
+这里会共享定义的内容的，案例所以想重新定义还得分开
+https://blog.csdn.net/junhuahouse/article/details/80753374
+'/
+@enduml

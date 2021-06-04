@@ -67,6 +67,10 @@ public class JavaTest {
             this.right = right;
         }
     }
+
+    static void testStream() {
+
+    }
 }
 
 interface JavaExpr{

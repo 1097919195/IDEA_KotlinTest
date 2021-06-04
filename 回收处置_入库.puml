@@ -1,0 +1,12 @@
+@startuml
+title 入库
+actor 处置公司人员
+participant 识别界面
+participant 入库界面
+database 服务器
+
+处置公司人员 -> 识别界面 : 扫处置人员码登录
+识别界面 -> 入库界面 : 扫处置公司暂存间码
+入库界面 -> 服务器 : 上传入库后的信息
+
+@enduml

@@ -18,7 +18,6 @@ fun main(args: Array<String>) {
     aa()
     println(bb("123"))
     println(cc("123"))
-
 }
 
 fun max(a: Int, b: Int): Int {

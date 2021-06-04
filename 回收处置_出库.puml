@@ -1,0 +1,14 @@
+@startuml
+title 出库
+actor 处置公司人员
+participant 识别界面
+participant 出库界面
+database 服务器
+participant 出库
+
+处置公司人员 -> 识别界面 : 扫处置人员码登录
+识别界面 -> 出库界面 : 扫医院出库管理人员码交接
+出库界面 <- 服务器 : 等待出库的数据
+出库界面 -> 出库 :选择出库数据
+出库 -> 服务器 : 上传出库数据
+@enduml
