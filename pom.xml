@@ -18,7 +18,7 @@
     <logback-ext-spring.version>0.1.4</logback-ext-spring.version>
     <mysql.driver.version>5.1.38</mysql.driver.version>
     <slf4j.version>1.7.21</slf4j.version>
-    <spring.version>4.2.5.RELEASE</spring.version>
+    <spring.version>4.2.7.RELEASE</spring.version>
     <jackson.version>2.5.2</jackson.version>
     <mybatis.version>3.4.0</mybatis.version>
     <mybatis.spring.version>1.3.0</mybatis.spring.version>
